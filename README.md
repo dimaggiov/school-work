@@ -1,3 +1,3 @@
 # school-work
 
-Some chosen assignments from my coursework that are cool.
+Some chosen assignments from my coursework that I think are cool.
